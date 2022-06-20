@@ -34,5 +34,5 @@
 // console.log (template)
 
 // Bonus 
-let changed = "Bonjour"
-console.log (changed.replaceAll("o", "a"))
+// let changed = "Bonjour"
+// console.log (changed.replaceAll("o", "a"))
