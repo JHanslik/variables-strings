@@ -2,11 +2,11 @@
 // console.log("Hello World !")
 
 // 02 - String
-// let sentence = "My name is Julien"
+// const sentence = "My name is Julien"
 // console.log (sentence)
 
 // 03 - Concaténation
-// let name = "Julien"
+// const name = "Julien"
 // console.log (`Nice to meet you ${name}`)
 
 // 04 - String Length
